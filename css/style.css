@@ -136,8 +136,13 @@ p { color: #222;
 		float: left;
 		margin: 0 15px;	
 	}
+
 	.nav ul li:hover{
 		color: grey;
+	}
+
+	.nav ul li:active{
+		color: yellow;
 	}
 }
 
