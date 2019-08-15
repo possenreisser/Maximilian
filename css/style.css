@@ -143,6 +143,7 @@ p { color: #222;
 
 	.nav ul li:active{
 		color: yellow;
+		text-decoration: underline;
 	}
 }
 
